@@ -1,4 +1,4 @@
-package com.yunhorn.cloudevents.functions;
+package com.yunhorn.core.cloudevents.functions;
 
 import java.net.URI;
 import org.apache.pulsar.functions.api.Context;
